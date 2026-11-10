@@ -12,9 +12,9 @@ Building scalable, secure backend services and production GenAI systems.
 
 ---
 
-## ⚙️ Backend & microservices (enterprise banking)
+## ⚙️ Backend & microservices · Enterprise Banking
 
-Building secure, stable and scalable backend systems for high-traffic enterprise platforms.
+Building secure, stable and scalable backend systems for high-traffic enterprise banking platforms, across the full SDLC in Agile teams.
 
 - **Java & Spring Boot microservices:** Java 17, Spring Boot and Spring MVC services with REST APIs, deployed on AWS EKS/ECS.
 - **Integration:** Kafka messaging and REST APIs connecting upstream and downstream banking systems.
