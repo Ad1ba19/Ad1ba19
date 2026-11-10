@@ -12,13 +12,15 @@ Building scalable, secure backend services and production GenAI systems.
 
 ---
 
-## ⚙️ Backend & microservices (enterprise banking onboarding platform)
+## ⚙️ Backend & microservices (enterprise banking)
 
-- Full-stack **Java 17, Spring Boot/MVC** microservices, REST APIs and Angular modules serving **10,000+ concurrent users**, deployed on **AWS EKS/ECS**.
-- Production **Kafka** producers and consumers across onboarding services, integrated with upstream and downstream banking systems.
-- **30% faster API responses** through MySQL indexing, execution-plan analysis and connection pool tuning.
-- Endpoints secured with **OWASP Top 10 and OAuth2/JWT**, passing third-party security audits with **zero critical findings**.
-- **Jenkins and Docker CI/CD** pipelines that made releases **5x faster**.
+Building secure, stable and scalable backend systems for high-traffic enterprise platforms.
+
+- **Microservices:** Java and Spring Boot services with clean REST APIs, deployed on Kubernetes in the cloud.
+- **Event-driven integration:** Kafka-based messaging that connects services with upstream and downstream systems reliably.
+- **Performance:** profiling and tuning databases and APIs so services stay fast under load.
+- **Security:** authentication, authorization and secure coding built in from the start.
+- **CI/CD:** automated build, test and deployment pipelines for frequent, reliable releases.
 
 ---
 
