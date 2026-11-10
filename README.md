@@ -63,7 +63,7 @@ The code for these is private because it handles client data. Here is what they 
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkN1cnNvcjwvdGl0bGU%2BPHBhdGggZD0iTTExLjUwMy4xMzEgMS44OTEgNS42NzhhLjg0Ljg0IDAgMCAwLS40Mi43MjZ2MTEuMTg4YzAgLjMuMTYyLjU3NS40Mi43MjRsOS42MDkgNS41NWExIDEgMCAwIDAgLjk5OCAwbDkuNjEtNS41NWEuODQuODQgMCAwIDAgLjQyLS43MjRWNi40MDRhLjg0Ljg0IDAgMCAwLS40Mi0uNzI2TDEyLjQ5Ny4xMzFhMS4wMSAxLjAxIDAgMCAwLS45OTYgME0yLjY1NyA2LjMzOGgxOC41NWMuMjYzIDAgLjQzLjI4Ny4yOTcuNTE1TDEyLjIzIDIyLjkxOGMtLjA2Mi4xMDctLjIyOS4wNjQtLjIyOS0uMDZWMTIuMzM1YS41OS41OSAwIDAgMC0uMjk1LS41MWwtOS4xMS01LjI1N2MtLjEwOS0uMDYzLS4wNjQtLjIzLjA2MS0uMjMiLz48L3N2Zz4%3D)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 
@@ -94,10 +94,14 @@ The code for these is private because it handles client data. Here is what they 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20App%20Service-0078D4?logo=microsoftazure&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPlJlbmRlcjwvdGl0bGU%2BPHBhdGggZD0iTTE4LjI2My4wMDdjLTMuMTIxLS4xNDctNS43NDQgMi4xMDktNi4xOTIgNS4wODItLjAxOC4xMzgtLjA0NS4yNzItLjA2Ny40MDUtLjY5NiAzLjcwMy0zLjkzNiA2LjUwNy03LjgyNyA2LjUwNy0xLjM4OCAwLTIuNjkxLS4zNTYtMy44MjUtLjk3OWEuMjAyNC4yMDI0IDAgMCAwLS4zMDIuMTc4VjI0SDEydi04Ljk5OWMwLTEuNjU2IDEuMzM4LTMgMi45ODctM2gyLjk4OGMzLjM4MiAwIDYuMTAzLTIuODE3IDUuOTctNi4yNDQtLjEyLTMuMDg0LTIuNjEtNS42MDMtNS42ODItNS43NSIvPjwvc3ZnPg%3D%3D)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
+**Security**
+![OAuth2](https://img.shields.io/badge/OAuth2%20%2F%20JWT-555555)
 
 ---
 
