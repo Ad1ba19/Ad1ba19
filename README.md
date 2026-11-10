@@ -99,10 +99,6 @@ The code for these is private because it handles client data. Here is what they 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
-**Security**
-![OAuth2](https://img.shields.io/badge/OAuth2%20%2F%20JWT-555555)
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?logo=owasp&logoColor=white)
-
 ---
 
 ## 🌱 Currently
