@@ -16,11 +16,12 @@ Building scalable, secure backend services and production GenAI systems.
 
 Building secure, stable and scalable backend systems for high-traffic enterprise platforms.
 
-- **Microservices:** Java and Spring Boot services with clean REST APIs, deployed on Kubernetes in the cloud.
-- **Event-driven integration:** Kafka-based messaging that connects services with upstream and downstream systems reliably.
-- **Performance:** profiling and tuning databases and APIs so services stay fast under load.
-- **Security:** authentication, authorization and secure coding built in from the start.
-- **CI/CD:** automated build, test and deployment pipelines for frequent, reliable releases.
+- **Java & Spring Boot microservices:** Java 17, Spring Boot and Spring MVC services with REST APIs, deployed on AWS EKS/ECS.
+- **Integration:** Kafka messaging and REST APIs connecting upstream and downstream banking systems.
+- **Data layer:** SQL query, indexing and connection tuning for faster APIs.
+- **Security:** JWT authentication, role-based access control and OWASP-aligned secure coding.
+- **CI/CD & operational stability:** Jenkins and Docker pipelines, production debugging and regression testing.
+- **Full stack:** Angular front-end modules integrated with Spring services.
 
 ---
 
