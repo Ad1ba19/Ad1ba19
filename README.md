@@ -24,16 +24,16 @@ Building scalable, secure backend services and production GenAI systems.
 
 ## 🤖 GenAI systems
 
-The code for these is private because it handles client data. Here is what they do and how they are built.
+The code for these is private because it handles client data. Each project links to a case study with architecture diagrams and screenshots.
 
-### Conflux: GenAI Intelligence Platform
-- A Claude AI agent that answers CRM questions through **tool calling and MCP** across four CRM and SharePoint sources.
+### [Conflux: GenAI Intelligence Platform](https://github.com/Ad1ba19/conflux-genai-intelligence-platform)
+- A Claude AI agent that answers CRM questions through **tool calling and MCP** across four enterprise data sources.
 - **Grounding rules and prompt caching** cut client research from about 60 minutes to seconds.
 - Deployed on **Oracle Cloud (OCI)**.
 
 `Python` `FastAPI` `JavaScript` `Claude API` `Oracle Cloud`
 
-### AI Daily Briefing System
+### [AI Daily Briefing System](https://github.com/Ad1ba19/ai-meeting-briefing-system)
 - Matches meeting attendees to **17,800+ CRM companies** and writes AI briefings into calendar invites.
 - An **eight-pass, Pydantic-validated LLM enrichment engine** running on Dockerized PostgreSQL and Redis behind FastAPI.
 - Microsoft Graph API integration with **retry and backoff**.
