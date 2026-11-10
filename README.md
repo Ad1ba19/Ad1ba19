@@ -86,12 +86,6 @@ An operations console that replaces manual CRM and spreadsheet updates.
 
 ---
 
-## 📈 GitHub stats
-
-![Adiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ad1ba19&show_icons=true&count_private=true&hide_border=true&theme=transparent)
-
----
-
 ## 🌱 Currently
 
 - Learning more about data orchestration (Airflow) and cloud data warehouses
