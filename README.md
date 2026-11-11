@@ -27,11 +27,12 @@ Building secure, stable and scalable backend systems for high-traffic enterprise
 
 ## 🤖 AI Systems · Generative & Agentic AI
 
-The code for these is private because it handles client data. Each project links to a case study with architecture diagrams and screenshots.
+The code for these is private because it handles client data. Each project links to a write-up with architecture diagrams and screenshots.
 
-### [Conflux: Enterprise AI Intelligence System](https://github.com/Ad1ba19/conflux-genai-intelligence-platform)
-*Generative AI · Agentic AI*
-- **AI agent with tool calling** on Claude, answering CRM and business intelligence questions across four enterprise data sources through MCP-based integrations.
+### [Conflux: Enterprise GenAI Intelligence Platform](https://github.com/Ad1ba19/conflux-genai-intelligence-platform)
+*GenAI · Agentic AI · RAG*
+
+- **AI agent with RAG and tool calling** on Claude, answering CRM and business intelligence questions across four enterprise data sources.
 - **Context-grounded responses** with prompt caching, cutting client research from about 60 minutes to seconds.
 - Deployed on **Oracle Cloud (OCI)**.
 
