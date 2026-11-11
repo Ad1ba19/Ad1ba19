@@ -1,18 +1,18 @@
 # Adiba Khan
 
-**Software Engineer · Backend & Microservices · GenAI Systems**
+**Software Engineer · Backend & AI Systems**
 
-Building scalable, secure backend services and production GenAI systems.
+Building scalable backend microservices and production AI systems.
 
 - **Backend & microservices:** Java 17 and Spring Boot microservices, REST APIs and Kafka integrations for enterprise banking, serving 10,000+ concurrent users on AWS, with CI/CD, security and operational stability built in.
-- **GenAI systems:** production applications with Python, FastAPI and the Claude API, using tool calling, enterprise data integrations and validated structured output.
+**AI systems:** generative and agentic AI applications with Python, FastAPI and the Claude API, using AI agents, tool calling, enterprise data integrations and validated structured output.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adiba%20Khan-0A66C2?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/adiba-khan-20ba57230/)
 [![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified%20Professional-Java%20SE%2011-F80000?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPk9yYWNsZTwvdGl0bGU%2BPHBhdGggZD0iTTE2LjQxMiA0LjQxMmgtOC44MmE3LjU4OCA3LjU4OCAwIDAgMC0uMDA4IDE1LjE3Nmg4LjgyOGE3LjU4OCA3LjU4OCAwIDAgMCAwLTE1LjE3NnptLS4xOTMgMTIuNTAySDcuNzg2YTQuOTE1IDQuOTE1IDAgMCAxIDAtOS44MjhoOC40MzNhNC45MTQgNC45MTQgMCAxIDEgMCA5LjgyOHoiLz48L3N2Zz4%3D)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=16760819934A36A205E136CD929B86D7BF0347CA46FF7A1544A1533166A56942)
 
 ---
 
-## ⚙️ Backend & microservices · Enterprise Banking
+## ⚙️ Backend & Microservices · Enterprise Banking
 
 Building secure, stable and scalable backend systems for high-traffic enterprise banking platforms, across the full SDLC in Agile teams.
 
@@ -25,28 +25,35 @@ Building secure, stable and scalable backend systems for high-traffic enterprise
 
 ---
 
-## 🤖 GenAI systems
+## 🤖 AI Systems · Generative & Agentic AI
 
 The code for these is private because it handles client data. Each project links to a case study with architecture diagrams and screenshots.
 
-### [Conflux: GenAI Intelligence Platform](https://github.com/Ad1ba19/conflux-genai-intelligence-platform)
-- A Claude AI agent that answers CRM questions through **tool calling and MCP** across four enterprise data sources.
-- **Grounding rules and prompt caching** cut client research from about 60 minutes to seconds.
+### [Conflux: Enterprise AI Intelligence System](https://github.com/Ad1ba19/conflux-genai-intelligence-platform)
+*Generative AI · Agentic AI*
+- **AI agent with tool calling** on Claude, answering CRM and business intelligence questions across four enterprise data sources through MCP-based integrations.
+- **Context-grounded responses** with prompt caching, cutting client research from about 60 minutes to seconds.
 - Deployed on **Oracle Cloud (OCI)**.
 
-`Python` `FastAPI` `JavaScript` `Claude API` `Oracle Cloud`
+`Python` `FastAPI` `JavaScript` `Claude API` `AI Agents` `Oracle Cloud`
 
 ### [AI Daily Briefing System](https://github.com/Ad1ba19/ai-meeting-briefing-system)
-- Matches meeting attendees to **17,800+ CRM companies** and writes AI briefings into calendar invites.
-- An **eight-pass, Pydantic-validated LLM enrichment engine** running on Dockerized PostgreSQL and Redis behind FastAPI.
-- Microsoft Graph API integration with **retry and backoff**.
+*Generative AI · AI-powered automation*
+- **Contextual meeting intelligence:** matches attendees to 17,800+ CRM companies and writes AI briefings into calendar invites.
+- **LLM enrichment engine:** eight passes with structured output and Pydantic validation, on Dockerized PostgreSQL and Redis behind FastAPI.
+- **Enterprise integrations:** Microsoft Graph and CRM APIs with retry and backoff.
 
 `Python` `Claude API` `Microsoft Graph` `PostgreSQL` `Redis` `Docker` `FastAPI`
 
-### Also in production
+### Production GenAI applications
 - Two GenAI API apps on the Claude API, with output validated by **grounding rules and Pydantic schemas**.
 - Re-architected a Microsoft Graph platform analyzing **20,000+ Outlook emails**, cutting runtime **from hours to under 10 minutes**.
 - An internal operations console on **Azure App Service** with App Insights alerts, automating Outlook-to-CRM sync for **17 calendars**.
+
+
+### More AI projects
+- [Road Lane Line Detection](https://github.com/Ad1ba19/road-lane-line-detection): computer vision AI project, real-time on a CPU.
+- [Customer Segmentation with RFM](https://github.com/Ad1ba19/customer-segmentation-rfm-analysis): machine learning project with a tested Python pipeline.
 
 ---
 
@@ -60,7 +67,7 @@ The code for these is private because it handles client data. Each project links
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-**GenAI & ML**
+**AI & ML**
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white)
 ![Tool Calling](https://img.shields.io/badge/Tool%20Calling%20%26%20MCP-555555)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
@@ -110,8 +117,8 @@ The code for these is private because it handles client data. Each project links
 
 ## 🌱 Currently
 
-- Building GenAI applications with the Claude API, tool calling and enterprise data integrations
+- Building AI systems with the Claude API: agents, tool calling and enterprise data integrations
 - Using AI coding tools with every output validated through peer review, automated tests and secure coding standards
-- Open to Software Engineer roles in backend, microservices and GenAI systems
+- Open to Software Engineer roles in backend, microservices and AI systems
 
 **Let's connect on [LinkedIn](https://www.linkedin.com/in/adiba-khan-20ba57230/).**
