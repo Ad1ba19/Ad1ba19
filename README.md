@@ -39,7 +39,7 @@ The code for these is private because it handles client data. Each project links
 `Python` `FastAPI` `JavaScript` `Claude API` `AI Agents` `Oracle Cloud`
 
 ### [AI Daily Briefing System](https://github.com/Ad1ba19/ai-meeting-briefing-system)
-*Generative AI · AI-powered automation*
+*GenAI · AI Automation*
 - **Contextual meeting intelligence:** matches attendees to 17,800+ CRM companies and writes AI briefings into calendar invites.
 - **LLM enrichment engine:** eight passes with structured output and Pydantic validation, on Dockerized PostgreSQL and Redis behind FastAPI.
 - **Enterprise integrations:** Microsoft Graph and CRM APIs with retry and backoff.
@@ -49,12 +49,12 @@ The code for these is private because it handles client data. Each project links
 ### Production GenAI applications
 - Two GenAI API apps on the Claude API, with output validated by **grounding rules and Pydantic schemas**.
 - Re-architected a Microsoft Graph platform analyzing **20,000+ Outlook emails**, cutting runtime **from hours to under 10 minutes**.
-- An internal operations console on **Azure App Service** with App Insights alerts, automating Outlook-to-CRM sync for **17 calendars**.
+- An internal operations console deployed on Render, fetching Outlook calendars through **Microsoft Graph** and automating Outlook-to-CRM sync for **17 calendars**.
 
 
 ### More AI projects
 - [Road Lane Line Detection](https://github.com/Ad1ba19/road-lane-line-detection): computer vision AI project, real-time on a CPU.
-- [Customer Segmentation with RFM](https://github.com/Ad1ba19/customer-segmentation-rfm-analysis): machine learning project with a tested Python pipeline.
+- [Customer Segmentation with RFM](https://github.com/Ad1ba19/customer-segmentation-rfm-analysis): data analytics project with a tested Python pipeline.
 
 ---
 
@@ -70,6 +70,8 @@ The code for these is private because it handles client data. Each project links
 
 **AI & ML**
 ![Claude API](https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-555555?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-555555?style=flat-square)
 ![Tool Calling](https://img.shields.io/badge/Tool%20Calling%20%26%20MCP-555555)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?logo=anthropic&logoColor=white)
@@ -77,6 +79,7 @@ The code for these is private because it handles client data. Each project links
 ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkN1cnNvcjwvdGl0bGU%2BPHBhdGggZD0iTTExLjUwMy4xMzEgMS44OTEgNS42NzhhLjg0Ljg0IDAgMCAwLS40Mi43MjZ2MTEuMTg4YzAgLjMuMTYyLjU3NS40Mi43MjRsOS42MDkgNS41NWExIDEgMCAwIDAgLjk5OCAwbDkuNjEtNS41NWEuODQuODQgMCAwIDAgLjQyLS43MjRWNi40MDRhLjg0Ljg0IDAgMCAwLS40Mi0uNzI2TDEyLjQ5Ny4xMzFhMS4wMSAxLjAxIDAgMCAwLS45OTYgME0yLjY1NyA2LjMzOGgxOC41NWMuMjYzIDAgLjQzLjI4Ny4yOTcuNTE1TDEyLjIzIDIyLjkxOGMtLjA2Mi4xMDctLjIyOS4wNjQtLjIyOS0uMDZWMTIuMzM1YS41OS41OSAwIDAgMC0uMjk1LS41MWwtOS4xMS01LjI1N2MtLjEwOS0uMDYzLS4wNjQtLjIzLjA2MS0uMjMiLz48L3N2Zz4%3D)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+
 
 **Backend**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
